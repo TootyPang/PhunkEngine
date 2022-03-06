@@ -1,0 +1,7 @@
+progress
+colorama
+Pillow
+pandas
+tox
+black
+isort

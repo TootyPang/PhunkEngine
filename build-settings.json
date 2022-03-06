@@ -1,0 +1,14 @@
+{
+    "active": "True",
+    "collection":[
+        {
+            "name"          : "Expert Phunk",
+            "description"   : "So so so phunky",
+            "image_width"   : 500,
+            "image_height"  : 500,
+            "total_supply"  : 4200,
+            "layers"        : ["Background", "Base", "Hat", "Accessories", "Holding"],
+            "layer_opacity" : [1, 1, 1, 1, 1]
+        }
+    ]
+}
