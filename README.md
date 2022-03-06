@@ -15,11 +15,14 @@ PhunkEngine requires Python 3.8+.
    > `ex: 'purple_glasses#70.png'`
    > `#100 = Very common. #1 = Super rare. Play with it to find distributions you like!`
 
-4. Run.
-   > `OPTION 1: Just run build.py :)`
-   > `OPTION 2: python start.py COLLECTION_NAME NFT_QTY -- Ex: 'python start.py Phunks 100'` 
+4. Run
+   OPTION 1 (Easy):
+   > `Just run build.py :)`
+
+   OPTION 2 (Expert):
+   > `Edit build-settings.json, then run build.py!` 
+
+   OPTION 3 (Command line):
+   > `python start.py COLLECTION_NAME NFT_QTY -- Ex: 'python start.py Phunks 100'` 
     
 5. Check the '/completed' folder to see your NFT images and metadata.
-
-
-
