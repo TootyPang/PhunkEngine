@@ -14,7 +14,7 @@ PhunkEngine requires Python 3.8+.
 2. Make sure you name your folders EXACTLY what your attributes to be called.
        
 3. In each attribute folder, have your trait pngs saved with a # at the end to denote rarity.
-   - ex: `'purple_glasses#70.png'`
+   - ex: `purple_glasses#70.png`
    - `#100` = Very common. `#1` = Super rare. Play with it to find distributions you like!
 
 4. Run
