@@ -1,11 +1,13 @@
 # **Phunk Engine**   
 Created by TootyPang.
 
+
 ### Installation guide
 PhunkEngine requires Python 3.8+. 
    - `pip install -r requirements.txt`
 
-### Documentation
+
+### Setup and Run
 
 1. Copy your assets into the assets folders.
 
@@ -21,6 +23,7 @@ PhunkEngine requires Python 3.8+.
    - OPTION 2 (Expert): Edit build-settings.json, then run `python app.py`! 
 
    - OPTION 3 (Command line): python start.py [COLLECTION_NAME] [NFT_QTY] 
-   -- Example > `python app.py Phunks 100'` 
+
+   - Command line example: `python app.py Phunks 100` 
     
 5. Check the '/completed' folder to see your NFT images and metadata.
