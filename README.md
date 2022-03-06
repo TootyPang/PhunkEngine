@@ -1,7 +1,3 @@
-![https://github.com/TootyPang/PhunkEngine](https://github.com/yngvem/group-lasso/workflows/Unit%20tests/badge.svg)
-![https://github.com/TootyPang/PhunkEngine](https://readthedocs.org/projects/group-lasso/badge/?version=latest)
-![https://github.com/TootyPang/PhunkEngine/blob/master/LICENSE](https://img.shields.io/pypi/l/group-lasso.svg)
-
 # **Phunk Engine**   
 Created by TootyPang.
 
